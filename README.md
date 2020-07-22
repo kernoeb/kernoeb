@@ -17,4 +17,4 @@ I mostly use languages or frameworks such as Node.js, Python3, Java, React.js, R
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/KOP_OF_TEA?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/KOP_OF_TEA) 
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/kernoeb)
-![Discord](https://img.shields.io/discord/272454426038370304?color=7289da&label=Discord&logo=discord&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/272454426038370304?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.becauseofprog.fr)
