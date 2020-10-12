@@ -16,6 +16,6 @@ I mostly use languages or frameworks such as Node.js, Python3, Java, React.js, R
 - Telegram : [@kernoeb](https://t.me/kernoeb)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/KOP_OF_TEA?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/KOP_OF_TEA) 
-[![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://www.buymeacoffee.com/kernoeb)
-[![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge)](https://www.paypal.com/kernoeb)
+[![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge&label=Buy%20me%20a%20coffee)](https://www.buymeacoffee.com/kernoeb)
+[![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge&label=PayPal)](https://www.paypal.com/kernoeb)
 [![Discord](https://img.shields.io/discord/272454426038370304?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.becauseofprog.fr)
