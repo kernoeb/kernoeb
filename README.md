@@ -1,18 +1,19 @@
 ### Hi there, I'm @kernoeb 👋
 
 I'm a **french** developer :fr: !  
-I just finished a **DUT Informatique**, and I'm currently studying for a Licence Pro DLIS, at the IUT de Vannes, Brittany, France.
+I hold a degree in **Computer Science** (DUT Informatique > BAC+2), and I'm still studying (Licence Pro DLIS) at the IUT de Vannes, Brittany, France.
 
-I mostly use languages or frameworks such as Node.js, Python3, Java, React.js, React Native, Vue.js and Nuxt.js ! :)
+I mostly use languages or frameworks such as Node.js, Python3, Java, React.js, React Native, Vue.js and Nuxt.js ! :)  
+So, I really like web and mobile development! :computer:
 
 #### 🔭 Projects
 - I’m currently working on an **Android** app built in **React Native**, for my development team where I've been a volunteer developer for the last 3 years : **[BecauseOfProg](https://github.com/BecauseOfProg)**
 - I created an [university calendar](https://github.com/kernoeb/planningiut) website in Nuxt.js (Vue.js + PWA + Node.js)
-- I'm a big fan of Telegram ([@kernoeb](https://t.me/kernoeb)), so I built some bots to automate some stuff... :star:
-- I work as an apprentice in a breton start-up company, where I use Node.js and Vue.js.
+- I'm a big fan of Telegram ([@kernoeb](https://t.me/kernoeb)), so I build bots to automate some stuff... :star:
+- I work as an apprentice in a Breton start-up company, where I use Node.js, Vue.js and MongoDB.
 
 
-#### 📫 How to reach me:
+#### 📫 Contact me
 - Mail : kernoeb@protonmail.com  
 - Telegram : [@kernoeb](https://t.me/kernoeb)
 
