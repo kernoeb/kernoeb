@@ -3,7 +3,7 @@
 I'm a **french** developer :fr: !  
 I hold a degree in **Computer Science** (DUT Informatique > BAC+2), and I'm still studying (Licence Pro DLIS) at the IUT de Vannes, Brittany, France.
 
-I mostly use languages or frameworks such as Node.js, Python3, Java, React.js, React Native, Vue.js and Nuxt.js ! :)  
+I mostly use languages or frameworks such as Node.js, Python3, Java, React.js, React Native, Vue.js and Nuxt.js :)  
 So, I really like web and mobile development! :computer:
 
 #### 🔭 Projects
