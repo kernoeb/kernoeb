@@ -21,5 +21,3 @@ So, I really like web and mobile development! :computer:
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge&label=Buy%20me%20a%20coffee)](https://www.buymeacoffee.com/kernoeb)
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge&label=PayPal)](https://www.paypal.com/kernoeb)
 [![Discord](https://img.shields.io/discord/272454426038370304?color=7289da&label=Discord&logo=discord&style=for-the-badge)](https://discord.becauseofprog.fr)
-
-![Metrics](https://metrics.lecoq.io/kernoeb?template=classic&languages=1&config.timezone=Europe%2FParis&config.animated=true)
