@@ -1,21 +1,24 @@
 ### Hi there, I'm @kernoeb 👋
+*aka Noéwen B.*  
 
 I'm a **french** developer :fr: !  
 I hold a degree in **Computer Science** (DUT Informatique > BAC+2), and I'm still studying (Licence Pro DLIS) at the IUT de Vannes, Brittany, France.
 
-I mostly use languages or frameworks such as Node.js, Python3, Java, React.js, React Native, Vue.js and Nuxt.js :)  
+I mostly use languages / frameworks such as Node.js, Python3, Java, React.js, React Native, Vue.js and Nuxt.js 
 So, I really like web and mobile development! :computer:
 
 #### 🔭 Projects
-- I created an **Android** app built in **React Native**, for my development team where I've been a volunteer developer for the last 3 years : **[BecauseOfProg](https://github.com/BecauseOfProg)**
-- I also created an [university calendar](https://github.com/kernoeb/planningiut) website in Nuxt.js (Vue.js + PWA + Node.js)
-- I'm a big fan of Telegram ([@kernoeb](https://t.me/kernoeb)), so I build bots to automate some stuff... :star:
-- I work as an apprentice in a Breton start-up company, where I use Node.js, Vue.js and MongoDB.
+- [BecauseOfProg Android](https://github.com/BecauseOfProg/app), an app built in **React Native** for my development team where I've been a **volunteer** developer for the last 4 years
+- [PlanningIUT](https://github.com/kernoeb/planningiut), an university calendar website in Nuxt.js (Vue.js + PWA + Node.js)
+- [Géobtenu](https://github.com/kernoeb/geobtenu), a geography resource for GeoGuessr
+- I'm an active user of Telegram ([@kernoeb](https://t.me/kernoeb)), so I occasionally build bots to automate some stuff... :star:
+- I work as an apprentice in a Breton start-up company, where I use Node.js, Vue.js, Nuxt.js and MongoDB.
 
 
 #### 📫 Contact me
 - Mail : kernoeb@protonmail.com  
 - Telegram : [@kernoeb](https://t.me/kernoeb)
+- Website : [noewen.com](https://noewen.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kernoeb?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/kernoeb) 
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge&label=Buy%20me%20a%20coffee)](https://www.buymeacoffee.com/kernoeb)
