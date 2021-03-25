@@ -8,9 +8,9 @@ I mostly use languages / frameworks such as Node.js, Python3, Java, React.js, Re
 So, I really like web and mobile development! :computer:
 
 #### 🔭 Projects
-- [BecauseOfProg Android](https://github.com/BecauseOfProg/app), an app built in **React Native** for my development team where I've been a **volunteer** developer for the last 4 years
 - [PlanningIUT](https://github.com/kernoeb/planningiut), an university calendar website in Nuxt.js (Vue.js + PWA + Node.js)
 - [Géobtenu](https://github.com/kernoeb/geobtenu), a geography resource for GeoGuessr
+- [BecauseOfProg](https://github.com/BecauseOfProg), a website built in **Vue.js** and an app built in **React Native**
 - I'm an active user of Telegram ([@kernoeb](https://t.me/kernoeb)), so I occasionally build bots to automate some stuff... :star:
 - I work as an apprentice in a Breton start-up company, where I use Node.js, Vue.js, Nuxt.js and MongoDB.
 
