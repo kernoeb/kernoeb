@@ -2,9 +2,9 @@
 *aka Noéwen B.*  
 
 I'm a **french** developer :fr: !  
-I hold a degree in **Computer Science** (DUT Informatique > BAC+2), and I'm still studying (Licence Pro DLIS) at the IUT de Vannes, Brittany, France.
+I hold a degree in **Computer Science** (Licence Pro DLIS, Bac+3).
 
-I mostly use languages / frameworks such as Node.js, Python3, Java, React.js, React Native, Vue.js and Nuxt.js 
+I mostly use languages / frameworks such as Node.js, Python3, Java, GoLang, Vue.js, Nuxt.js, React.js or React Native 
 So, I really like web and mobile development! :computer:
 
 #### 🔭 Projects
