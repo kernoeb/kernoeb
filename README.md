@@ -8,7 +8,7 @@ I mostly use languages / frameworks such as Node.js, Python3, Java, GoLang, Vue.
 So, I really like web and mobile development! :computer:
 
 #### 🔭 Projects
-- [PlanningIUT](https://github.com/kernoeb/planningiut), an university calendar website in Nuxt.js (Vue.js + PWA + Node.js)
+- [PlanningSup](https://github.com/kernoeb/planningsup), an university calendar website built in Nuxt.js (Vue.js + PWA + Node.js)
 - [Géobtenu](https://github.com/kernoeb/geobtenu), a geography resource for GeoGuessr
 - [BecauseOfProg](https://github.com/BecauseOfProg), a website built in **Vue.js** and an app built in **React Native**
 - I'm an active user of Telegram ([@kernoeb](https://t.me/kernoeb)), so I occasionally build bots to automate some stuff... :star:
