@@ -9,7 +9,7 @@ I mostly use languages or frameworks such as **Node.js**, Python3, GoLang, **Vue
 
 - [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built in **Nuxt.js** (+ PWA)
 - [Géobtenu](https://github.com/kernoeb/geobtenu) — Geography resource for GeoGuessr
-- [BecauseOfProg](https://github.com/BecauseOfProg) — Website built in **Vue.js**, Android app built in **React Native**
+- [BecauseOfProg](https://github.com/BecauseOfProg) — **Vue.js** (Website), **React Native** (Android)
 - [Drapeau du Jour](https://drapeaudujour.noewen.com/) — One day, one flag (flag of the day)
 - I'm an active user of Telegram ([@kernoeb](https://t.me/kernoeb)), so I occasionally build bots to automate some stuff... :star:
 - I work as an apprentice in a Breton start-up company, where I use Node.js, Vue.js, Nuxt.js and **MongoDB**.
