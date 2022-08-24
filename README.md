@@ -7,7 +7,7 @@ I mostly use languages or frameworks such as **Node.js**, Python3, GoLang, **Vue
 
 #### 🔭 Projects
 
-- [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built in Nuxt.js (Vue.js, Node.js, PWA)
+- [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built in **Nuxt.js** (+ PWA)
 - [Géobtenu](https://github.com/kernoeb/geobtenu) — Geography resource for GeoGuessr
 - [BecauseOfProg](https://github.com/BecauseOfProg) — Website built in **Vue.js**, Android app built in **React Native**
 - [Drapeau du Jour](https://drapeaudujour.noewen.com/) — One day, one flag (flag of the day)
