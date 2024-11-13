@@ -8,7 +8,7 @@ I mostly use languages or frameworks such as **Node.js**, Python3, Rust, GoLang,
 #### 🔭 Projects
 
 - [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built in **Nuxt.js** (+ PWA)
-- [Partage][https://github.com/kernoeb/partage) - Share text in a same local network (**Rust**, **Vue 3**)
+- [Partage](https://github.com/kernoeb/partage) - Share text in a same local network (**Rust**, **Vue 3**)
 - [Géobtenu](https://github.com/kernoeb/geobtenu) — Geography resource for GeoGuessr
 - [BecauseOfProg](https://github.com/BecauseOfProg) — **Vue.js** (Website), **React Native** (Android)
 - [Drapeau du Jour](https://drapeaudujour.noewen.com/) — One day, one flag (flag of the day)
