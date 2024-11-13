@@ -21,6 +21,6 @@ I mostly use languages or frameworks such as **Node.js**, Python3, Rust, GoLang,
 - Telegram : [@kernoeb](https://t.me/kernoeb)
 - Website : [noewen.com](https://noewen.com)
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kernoeb?logo=x&style=for-the-badge)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/kernoeb?logo=x&style=for-the-badge)](https://x.com/kernoeb)
 [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge&label=Buy%20me%20a%20coffee)](https://www.buymeacoffee.com/kernoeb)
 [![PayPal](https://img.shields.io/badge/Donate-💵-yellow.svg?style=for-the-badge&label=PayPal)](https://www.paypal.com/kernoeb)
