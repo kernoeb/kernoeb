@@ -7,7 +7,7 @@ I mostly use languages or frameworks such as **Node.js**, Bun, **Vue.js**, Pytho
 
 #### 🔭 Projects
 
-- [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built in **Vue.js** (+ PWA)
+- [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built with **Bun** and **Vue.js** (+ PWA)
 - [Partage](https://github.com/kernoeb/partage) - Share text on the same local network (**Rust**, **Vue 3**)
 - [Géobtenu](https://github.com/kernoeb/geobtenu) — Geography resource for GeoGuessr
 - [BecauseOfProg](https://github.com/BecauseOfProg) — **Vue.js** (Website), **React Native** (Android)
