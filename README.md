@@ -3,17 +3,17 @@
 
 I hold a degree in **Computer Science** (Licence Pro DLIS, Bac+3) in France :fr:.
 
-I mostly use languages or frameworks such as **Node.js**, Python3, Rust, GoLang, **Vue.js**, Nuxt.js, React.js or React Native.
+I mostly use languages or frameworks such as **Node.js**, Bun, **Vue.js**, Python3, Rust, Nuxt.js, React.js or React Native.
 
 #### 🔭 Projects
 
-- [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built in **Nuxt.js** (+ PWA)
+- [PlanningSup](https://github.com/kernoeb/planningsup) — University planning built in **Vue.js** (+ PWA)
 - [Partage](https://github.com/kernoeb/partage) - Share text on the same local network (**Rust**, **Vue 3**)
 - [Géobtenu](https://github.com/kernoeb/geobtenu) — Geography resource for GeoGuessr
 - [BecauseOfProg](https://github.com/BecauseOfProg) — **Vue.js** (Website), **React Native** (Android)
 - [Drapeau du Jour](https://drapeaudujour.noewen.com/) — One day, one flag (flag of the day)
 - I'm an active user of Telegram ([@kernoeb](https://t.me/kernoeb)), so I occasionally build bots to automate some stuff... :star:
-- I work as an apprentice in a Breton start-up company, where I use Node.js, Vue.js, Nuxt.js, Rust and **MongoDB**.
+- I work as an apprentice in a Breton start-up company, where I use Node.js, Vue.js, Rust and **MongoDB**.
 
 
 #### 📫 Contact me
