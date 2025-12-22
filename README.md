@@ -3,7 +3,7 @@
 
 I hold a degree in **Computer Science** (Licence Pro DLIS, Bac+3) in France :fr:.
 
-I mostly use languages or frameworks such as **Node.js**, Bun, **Vue.js**, Python3, Rust, Nuxt.js, React.js or React Native.
+I mostly use languages or frameworks such as **Node.js**, Bun, **Vue.js**, Python3, Rust, React.js or React Native.
 
 #### 🔭 Projects
 
