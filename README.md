@@ -1,9 +1,7 @@
 ### Hi there, I'm @kernoeb 👋
 > Noéwen, based in Bretagne :fr:
 
-I build web apps, desktop apps and bots, mostly with **Vue.js**, **Bun/Node.js**, **Rust** (Tauri) and **Python**.
-
-These days I'm exploring native desktop apps on macOS with **Tauri**, and Android tooling in **Kotlin**.
+I build web apps, desktop apps and bots, mostly with **Vue.js**, **Bun/Node.js**, **Rust** and **Python**.
 
 I work for a Breton-based company, where I use Node.js, Vue.js, Rust and **MongoDB**.
 
