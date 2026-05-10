@@ -3,7 +3,7 @@
 
 I build web apps, desktop apps and bots, mostly with **Vue.js**, **Bun/Node.js**, **Rust** and **Python**.
 
-I work for a Breton-based company, where I use Node.js, Vue.js, Rust and **MongoDB**.
+I work for a Breton-based company, where I use Node.js, Vue.js, Rust and MongoDB.
 
 #### 🔭 Featured projects
 
