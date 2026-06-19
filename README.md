@@ -11,7 +11,7 @@ I work for a Breton-based company, where I use Node.js, Vue.js, Rust and MongoDB
 - [secousse](https://github.com/kernoeb/secousse) : Open-source Twitch desktop client (**Tauri 2**, React, **Rust**)
 - [squads-app](https://github.com/kernoeb/squads-app) : Alternative Android client for Teams & Outlook (**Kotlin**)
 - [Partage](https://github.com/kernoeb/partage) : Share text on the local network (**Rust**, **Vue 3**)
-- [mac-now-playing](https://github.com/kernoeb/mac-now-playing) : Synced-lyrics karaoke overlay and Discord Rich Presence (**Swift**, macOS)
+- [MacNowPlaying](https://github.com/kernoeb/mac-now-playing) : Synced-lyrics karaoke overlay and Discord Rich Presence (**Swift**, macOS)
 - [Géobtenu](https://github.com/kernoeb/geobtenu) : Geography toolkit for GeoGuessr
 - [Drapeau du Jour](https://drapeaudujour.noewen.com/) : One day, one flag
 - [BecauseOfProg](https://github.com/BecauseOfProg) : **Vue.js** (website), **React Native** (Android)
