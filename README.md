@@ -7,9 +7,9 @@ I work for a Breton-based company, where I use Node.js, Vue.js, Rust and MongoDB
 
 #### 🌐 Web apps
 
-- [PlanningSup](https://github.com/kernoeb/PlanningSup) : University calendar built with **Bun** and **Vue.js** (PWA)
-- [Géobtenu](https://github.com/kernoeb/geobtenu) : Geography toolkit for GeoGuessr (flags, countries, pictures, metas)
-- [Drapeau du Jour](https://drapeaudujour.noewen.com/) : One day, one flag
+- [PlanningSup](https://github.com/kernoeb/PlanningSup) : University calendar built with **Bun** and **Vue.js** (PWA) ([website](https://planningsup.app))
+- [Géobtenu](https://github.com/kernoeb/geobtenu) : Geography toolkit for GeoGuessr (flags, countries, pictures, metas) ([website](https://geobtenu.netlify.app))
+- [Drapeau du Jour](https://github.com/kernoeb/drapeau-du-jour) : One day, one flag ([website](https://drapeaudujour.noewen.com))
 
 #### 📱 Apps
 
