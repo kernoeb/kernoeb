@@ -24,7 +24,7 @@ I work for a Breton-based company, where I use Node.js, Vue.js, Rust and MongoDB
 
 I'm an active Telegram user ([@kernoeb](https://t.me/kernoeb)), so I often build bots to automate things.
 
-- [Telegramusic](https://github.com/kernoeb/Telegramusic) : Download music from Deezer, YouTube and SoundCloud (**Python**, Docker)
+- [telegramusic](https://github.com/kernoeb/telegramusic) : Download music from Deezer, YouTube and SoundCloud (**Python**, Docker)
 - [jean_racine_bot](https://github.com/kernoeb/jean_racine_bot) : Discord bot for Root-Me (**Discord.js**)
 - [sarcastext](https://github.com/kernoeb/sarcastext) : A Telegram bot, really sArCasTiC
 
